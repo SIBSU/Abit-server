@@ -1,0 +1,4 @@
+<DirectoryMatch "\.(git|svn|hg)">
+    Order allow,deny
+    deny from all
+</DirectoryMatch> 
